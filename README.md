@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Esrom Tadesse</h1>
 
-<!--
-**xXRex45Xx/xXRex45Xx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Software Engineer | Full-Stack & Back-End Focus<br>
+  🔐 Cybersecurity MS Student @ Southwest Minnesota State University<br>
+  📍 Marshall, MN, USA
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate developer with 4+ years of hands-on experience building scalable web applications. Recently completed my B.S. in Computer Science and currently pursuing my Master's in Cybersecurity. Built secure, production-ready applications including hospital management systems, prison management solutions, and financial platforms. Committed to bridging software development with cybersecurity best practices.
+
+### 🚀 Public Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| [MKC Choir Songbook](https://github.com/xXRex45Xx/mkc-songbook) | Full-stack MERN app for managing a choir's song library — browse, search, stream, and organize songs | React, Express.js, MongoDB, Node.js |
+| [Ayu Hospital Management](https://github.com/xXRex45Xx/AyuWeb) | Role-based hospital management system covering patient records, appointments, billing & staff scheduling | Node.js, Express.js, PostgreSQL |
+| [Restaurant Waiting Line](https://github.com/xXRex45Xx/restaurant-waiting-line) | Queue management system for restaurants to track customers and reduce wait times | React, Express.js, MongoDB |
+| [Prison Management System](https://github.com/xXRex45Xx/PrisonManagementSystemProject) | Desktop application for managing prison operations with role-based dashboards | C#, ASP.NET Forms, SQL Server |
+| [E-Commerce RC](https://github.com/xXRex45Xx/e-commerce-rc) | E-commerce platform | JavaScript |
+| [HMS](https://github.com/xXRex45Xx/HMS) | Hospital management system | JavaScript |
+
+### 💻 Tech Stack
+
+**Languages**
+JavaScript · TypeScript · Java · C# · Python · C++ · SQL · PL/pgSQL · HTML · CSS · C
+
+**Frameworks & Libraries**
+React · ASP.NET Core · ASP.NET Forms · Express.js · TailwindCSS · Bootstrap · HTMX · jQuery · Entity Framework Core
+
+**Databases**
+PostgreSQL · MySQL · SQL Server · MongoDB
+
+**Tools & Platforms**
+Node.js · Git · GitHub · Docker · Jira · VS Code · Visual Studio · IntelliJ · Agile · SCRUM · Waterfall
+
+---
+
+<p align="center">
+  🌐 Portfolio: <a href="https://esrommtadesse.com">esrommtadesse.com</a><br>
+  📧 Email: <a href="mailto:esrom.mulugeta@gmail.com">esrom.mulugeta@gmail.com</a><br>
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/esrom-tadesse-058978269">Esrom Tadesse</a>
+</p>
